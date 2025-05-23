@@ -229,7 +229,7 @@ Voici quelques pistes pour faire évoluer l’application :
 Projet académique réalisé dans le cadre de la formation :
 
 *  1ère année — InGénierer Logiciel & Cybersécurité
-*  Développé par : Souhayla Ouchen ET Oumaima Marzak  
+*  Développé par :Oumaima Marzak & Souhayla Ouchen 
 *  Encadré par :RABHI Ouzayr 
 
 
